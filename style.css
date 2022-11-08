@@ -1,9 +1,9 @@
 body {
     background-color: #cccccc
 }
+
 h1 {
     text-align: center
-
 }
 
 p {
@@ -11,4 +11,7 @@ p {
 }
 
  em strong {
-    color:rgb(235, 20, 188)
+  
+  color:rgb(235, 20, 188)
+ }
+ #missao{font-size: 20px}
